@@ -1,0 +1,13 @@
+# Quarto generated output
+_site/
+_freeze/
+.quarto/
+
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS files
+.DS_Store
+Thumbs.db
